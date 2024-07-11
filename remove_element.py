@@ -7,6 +7,6 @@ def remove_element(nums , value:int):
                       i+=1   
         return nums           
         
-nums=[0,1,2,2,3,0,4,2]
-value=2
+nums=[3,2,2,3]
+value=3
 print(remove_element(nums ,value))        
